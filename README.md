@@ -3,7 +3,7 @@
   
 <h2 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discords.com/bio/p/jeuneplug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darkhappy" height="30" width="40" /></a>
+<a href="https://dsc.bio/jeuneplug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darkhappy" height="30" width="40" /></a>
 <!--
 **V3rs4til3/V3rS4til3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
