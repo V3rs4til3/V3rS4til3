@@ -1,5 +1,5 @@
-<h1> Hi 👋
-- 🔭 I’m currently working on : an online chat <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<h1> Hi 👋 </h1>
+<p>- 🔭 I’m currently working on : an online chat <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
   
 <h2 align="left">Connect with me:</h3>
 <p align="left">
