@@ -1,4 +1,4 @@
-<h1> Sup m8 👋 </h1>
+<h1> <center> Sup m8 👋 </center> </h1>
 
 <p>- 🔭 I’m currently working on : an online chat <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a></p>
 <p> a discord bot <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
